@@ -21,3 +21,8 @@ def add(x,y):
 def multiply(x,y):
     result = x * y
     return result
+
+
+def make_string(x):
+    result = str(x)
+    return result
